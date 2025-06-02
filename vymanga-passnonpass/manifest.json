@@ -1,1 +1,8 @@
-manifest.json
+{
+  "id": "es.vymanga.passnonpass",
+  "name": "VyManga Pass Nonpass",
+  "version": "1.0.0",
+  "lang": "es",
+  "nsfw": false,
+  "baseUrl": "https://vymanga.com"
+}
