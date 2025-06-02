@@ -1,0 +1,4 @@
+vymanga-passnonpass/
+├── manifest.json
+├── src/
+│   ├── main.js
